@@ -1,0 +1,54 @@
+#  HYDROPHONE CALIBRATION DATA 
+#  Hydrophone SN 3495 , 50 Ohm termination on scope
+#  Sensor type Needle Precision acoustics 
+#  Sensor diameter 0.5 mm 
+#  Preamplifier PA18103 
+#  DC Coupler DCPS753 
+#  External calibration by Precision Acoustics 
+#  Date: December 2021 
+#  Uncertainty: 17-20 percent 
+#  Frequency (MHz) / Sensitivity (mV/MPa)
+0.30,283.8
+0.35,304.1
+0.40,319.1
+0.45,344.6
+0.50,396.5
+0.55,417.1
+0.60,445.7
+0.65,469.9
+0.70,488.9
+0.75,510.5
+0.80,522.3
+0.85,528.9
+0.90,546.0
+0.95,572.7
+1.0,550.3
+2.0,461
+3.0,418
+4.0,417
+5.0,342
+6.0,374
+7.0,381
+8.0,389
+9.0,384
+10.0,393
+11.0,404
+12.0,410
+13.0,415
+14.0,412
+15.0,410
+16.0,416
+17.0,422
+18.0,426
+19.0,430
+20.0,423
+21.0,422
+22.0,431
+23.0,438
+24.0,441
+25.0,441
+26.0,437
+27.0,432
+28.0,442
+29.0,424
+30.0,414
